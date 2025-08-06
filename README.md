@@ -58,7 +58,6 @@
   - Talk through your thought process
   - Start with brute force, then optimize
   - Write clean, modular code
-  - Don't forget edge cases
 </div>
 
 <script>
