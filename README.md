@@ -11,7 +11,7 @@
   ### Data Structures
   1. Explain the difference between arrays and linked lists.
   2. When would you use a hash table vs a binary search tree?
-  3. How does a heap differ from a binary search tree?
+  
 
   ### Algorithms
   1. Explain time complexity of quicksort in best and worst cases.
