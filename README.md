@@ -14,7 +14,7 @@
 
     h1 {
       text-align: center;
-      color: #6d28d9;
+      color: #6d28d96;
     }
 
     .tab-buttons {
@@ -350,7 +350,7 @@
     <details class="dropdown">
       <summary>💬 Tell me about a challenging problem you solved.</summary>
       <p>
-        Example: Debugged a production issue by tracing memory leaks in Node.js, implemented optimized caching, and reduced response time by 50%.
+        Example: Debugged a production issue by tracing memory leaks in Node.js, implemented optimized caching, and reduced response time by 50%
       </p>
     </details>
   </div>
