@@ -171,7 +171,7 @@
     <details class="dropdown">
       <summary>🧠 LRU Cache Implementation</summary>
       <p>
-        Use a combination of a doubly linked list and a hash map to store recently used items efficiently.
+        Use a combination of a doubly linked list and a hash map to store recently used items efficiently
       </p>
     </details>
 
